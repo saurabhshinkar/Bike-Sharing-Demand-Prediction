@@ -34,7 +34,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 - Holiday - Holiday/No holiday
 - Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
-## Conclusions
+## Conclusions and insights
 1. Linear Regression Model Has Accuracy Of 65%.
 
 2. Decision Tree Has Accuracy Of 82%.
